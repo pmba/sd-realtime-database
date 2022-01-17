@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sistemas-distribuidos-ab7a7"
+  },
+  "targets": {
+    "sistemas-distribuidos-ab7a7": {
+      "hosting": {
+        "sdrtdb": [
+          "sdrtdb"
+        ]
+      }
+    }
+  }
+}
