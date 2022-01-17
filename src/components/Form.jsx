@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 import Button from "@mui/material/Button";
-import { Divider, Stack, TextField, Typography } from "@mui/material";
+import { Stack, TextField, Typography } from "@mui/material";
 import { pushNewItem } from "../services/database";
 
 const Form = () => {
