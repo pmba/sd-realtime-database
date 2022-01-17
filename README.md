@@ -1,5 +1,9 @@
 # Sistemas Distribuidos
 
+<p align="center">
+  <img src="https://github.com/pmba/sd-realtime-database/actions/workflows/firebase-hosting-merge.yml/badge.svg">
+</p>
+  
 Exemplo prático do Firebase Realtime Database
 
 Projeto feito para a disciplina de sistemas distribuídos da Universidade Federal de Alagoas, com o intuito de mostrar um exemplo prático de utilização do Firebase Realtime Database. Nesse exemplo podemos adicionar ou remover itens ao banco de dados e visualizar as inserções e remoções em tempo real.
